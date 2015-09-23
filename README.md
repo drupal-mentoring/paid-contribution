@@ -1,4 +1,3 @@
-## <i class="fa fa-sign-in"></i> Title
 ####Paid Contribution: past, present, and future
 
 
