@@ -1,23 +1,46 @@
 ## <i class="fa fa-sign-in"></i> Title
-####_Subtitle_
+####Paid Contribution: past, present, and future
 
 
 
-## [bit.ly/?](http://bit.ly/?)
+## [bit.ly/paid-contribution-notes](http://bit.ly/paid-contribution-notes)
 
 Note:
 - Slides and speaker notes available online
 
 
 
-## Presenter
+## Kalpana Goel
 
-<a href="https://www.drupal.org/u/user"><i class="fa fa-drupal"></i> user</a>
+<a href="https://www.drupal.org/u/kgoel"><i class="fa fa-drupal"></i> kgoel</a>
 
-<a href="https://twitter.com/user"><i class="fa fa-twitter"></i> user</a>
+<a href="https://twitter.com/kalpanagoel"><i class="fa fa-twitter"></i> kalpanagoel</a>
 
 Note:
 - About presenter
+
+
+
+## Alina Mackenzie
+
+<a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal"></i> alimac</a>
+
+<a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i>czaroxiejka</a>
+
+Note:
+- About presenter
+
+
+
+## Cathy Theys
+
+<a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a>
+
+<a href="https://twitter.com/YesCT"><i class="fa fa-twitter"></i>YesCT</a>
+
+Note:
+- About presenter
+
 
 
 
