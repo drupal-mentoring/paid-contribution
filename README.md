@@ -2,10 +2,20 @@
 
 
 
-## [bit.ly/paid-contribution-notes](http://bit.ly/paid-contribution-notes)
+## [bit.ly/paid-contributions](http://bit.ly/paid-contributions)
 
 Note:
-- Slides and speaker notes available online
+- Follow along: slides and speaker notes available online
+Presentation is done in reveal.js and is available on github.com
+
+
+
+
+##[bit.ly/paid-contribution-notes](http://bit.ly/paid-contribution-notes)
+
+Note:
+- Google doc for collaborative notes
+Identify one specific person to take notes during the Q&A
 
 
 
@@ -16,7 +26,9 @@ Note:
 <a href="https://twitter.com/kalpanagoel"><i class="fa fa-twitter"></i> kalpanagoel</a>
 
 Note:
-- About presenter
+- Working with Drupal for over 5 years since Drupal 6, have been contributing
+to core since 2013,
+works as developer forum one, based in Washington DC
 
 
 
@@ -27,7 +39,8 @@ Note:
 <a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i>czaroxiejka</a>
 
 Note:
-- About presenter
+- system administrator and web developer based in Chicago
+working with Drupal ~4 years since Drupal 7, involved with community ~2 years
 
 
 
@@ -38,7 +51,7 @@ Note:
 <a href="https://twitter.com/YesCT"><i class="fa fa-twitter"></i>YesCT</a>
 
 Note:
-- About presenter
+- Cathy Theys, YesCT. Started 9.5 years ago, have been a mentor for since .. Portland for sure. I work at BlackMesh and it's my fulltime job to work on drupal core.
 
 
 
