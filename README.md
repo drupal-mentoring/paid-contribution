@@ -44,3 +44,8 @@ working with Drupal ~4 years since Drupal 7, involved with community ~2 years
 
 Note:
 - Cathy Theys, YesCT. Started 9.5 years ago, have been a mentor for since .. Portland for sure. I work at BlackMesh and it's my fulltime job to work on drupal core.
+
+
+
+## Let's talk.
+[bit.ly/paid-contribution-notes](http://bit.ly/paid-contribution-notes)
