@@ -47,5 +47,53 @@ Note:
 
 
 
+
+## Paid contribution is not a recent concept.
+Note:
+- As early as around the time of Drupal 4.5 paid contribution had already existed.
+
+
+
+## There is not a single model of paid/unpaid contribution.
+
+
+
+### Full time employee
+Note:
+- paid to work on Drupal core
+
+
+
+### Regular portion of time
+Note:
+- regularly devoted to working on Drupal core (or at regular intervals)
+
+
+
+### In-between projects
+Note:
+- Irregular
+
+
+
+### Crowd-funded
+Note:
+-  (gittip/gratipay, drupalfund.us)
+
+
+
+### Contract
+Note:
+- (finite compensated time)
+
+
+
+### Indirect
+Note:
+-payments (scholarships and grants that pay some or all expenses, but not being paid)
+
+
+
+
 ## Let's talk.
 [bit.ly/paid-contribution-notes](http://bit.ly/paid-contribution-notes)
